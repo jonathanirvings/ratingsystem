@@ -1,0 +1,126 @@
+1	Ammar Fathin Sabili
+(athin)	4
+9:14	1
+1:58	3
+3:04	3
+2:25	4
+1:44
+2	Ahmad Zaky
+(azaky)	4
+9:59	3
+2:22	11
+6:10	1
+0:30	2
+0:55
+3	PlayFap
+(PlayFap)	3
+3:18	2
+1:31	1
+2:06	3
+1:26	1
+0:21
+4	Fariskhi Vidyan
+(FVD)	3
+3:32	1
+1:49	1
+2:58	1
+0:14	2
+1:29
+5	Agus Sentosa Hermawan
+(aguss787)	3
+3:57	1
+2:12	3
+3:09	1
+0:39	3
+1:05
+6	Teddy Budiono Hermawan
+(DeimonDB)	3
+4:26	1
+0:49	0
+0:00	1
+0:58	3
+2:38
+7	Vincentius Madya Putra Indramawan
+(darkstalker)	3
+5:07	1
+2:06	0
+0:00	1
+0:45	3
+2:16
+8	Saiz Kurniawan
+(Gajah_Gendut)	3
+6:05	1
+0:59	1
+2:06	7
+2:58	3
+2:07
+9	Sandy Karunia
+(sandy)	3
+6:28	1
+2:54	0
+0:00	2
+0:57	4
+2:35
+10	Tjandra Satria Gunawan
+(tjandra)	3
+7:19	1
+1:49	0
+0:00	1
+2:33	3
+2:56
+11	telatlogin
+(hikshiks)	3
+8:06	1
+2:56	0
+0:00	1
+0:28	8
+4:40
+12	Wira Abdillah
+(wirabdillah)	2
+3:16	1
+1:59	0
+0:00	2
+1:16	5
+4:19
+13	Aufar Gilbran
+(dancinggrass)	2
+6:10	0
+0:00	0
+0:00	3
+2:29	8
+3:41
+14	Wynne Wijaya
+(wynnewijaya)	1
+0:46	0
+0:00	0
+0:00	2
+0:46	0
+0:00
+15	Rakha Kanz Kautsar
+(rkkautsar)	1
+1:14	2
+2:00	0
+0:00	3
+1:14	0
+0:00
+16	Jauhar Arifin
+(jauhararifin)	1
+2:05	0
+0:00	0
+0:00	3
+3:26	4
+2:05
+17	Robert Sebastian Herlim
+(Ngiong)	1
+2:53	2
+2:53	0
+0:00	0
+0:00	0
+0:00
+18	Kevin Luvian
+(senaidert)	1
+3:39	0
+0:00	0
+0:00	8
+3:39	3
+3:15

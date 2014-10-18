@@ -1,0 +1,50 @@
+1	jonathanirvings (Jonathan Irvin Gunawan)	National University of Singapore	500	400	100	100	100	100
+2	azaky (Ahmad Zaky)	Institut Teknologi Bandung	450	350	100	50	100	100
+2	sokokaleb (Pusaka Kaleb Setyabudi)	Universitas Indonesia	450	350	100	50	100	100
+2	ignatiusjuan (Ignatius Juan Pradipta)	Alpha Aktiv, Language Institut	450	350	100	50	100	100
+5	fushar (Ashar Fuadi)	Universitas Indonesia	400	400	100	100	100	100
+6	athin (Ammar Fathin Sabili)	Universitas Indonesia	350	350	100	50	100	100
+6	luckycauldron (Bukan Manusia)	 	350	350	100	50	100	100
+8	vot1_bear (Joshua Aristo)	SMA Xaverius 1 Palembang	310	310	100	50	60	100
+9	zeulb (Stefano Chiesa)	SMAK 3 Penabur	307.14285714286	307.14285714286	57.142857142857	50	100	100
+10	makanbeling (Rakina Zata A)	SMA Negeri 8 Jakarta	276.66666666667	276.66666666667	66.666666666667	50	60	100
+11	reinhard1993 (Reinhart Abdiel Hermanus)		250	250	0	50	100	100
+12	vikar (a)	 	238.57142857143	238.57142857143	28.571428571429	50	60	100
+13	ItawaUna (Inamullah Rasuna Muhammad Khatami)	SMA SEMESTA	210	210	0	50	60	100
+14	yafithekid (Muhammad Yafi)	Institut Teknologi Bandung	160	160	0	0	60	100
+15	ShineX (Anthony)		150	150	0	50	0	100
+15	nathanajah (Nathan Azaria)	SMAN 2 Purwokerto	150	150	0	50	0	100
+17	darkstalker (Vincentius Madya Putra Indramawan)	Binus University	120	120	0	20	0	100
+18	whyzker (Willson Wijaya)	SMAK 5 Penabur	108.57142857143	108.57142857143	28.571428571429	50	0	30
+19	kadalijo (zamil majdy)	SMA Semesta Semarang	100	100	0	0	0	100
+19	FrauKlein (Gentur Waskito Triwinasis)	 	100	100	0	0	0	100
+19	ryznki2 (Iskandar Setiadi NP)	Institut Teknologi Bandung	100	0	0	0	0	0
+19	rkkautsar (Rakha Kanz Kautsar)	SMAN 1 Depok	100	100	0	0	0	100
+23	ITBSPC3_067 (primo)	Universitas Gadjah Mada	95.238095238095	95.238095238095	95.238095238095	0	0	0
+24	kenrick95 (Piplup)	SMA Sutomo 1 Medan; Nanyang Technological University	80	80	0	50	0	30
+25	ediliu (Ediliu)	 	32.380952380952	32.380952380952	2.3809523809524	0	0	30
+26	desperado123 (Evan Putra Limanto)	 	30	30	0	0	0	30
+26	Alva9696 (Alva Thomson)	SMA Xaverius 1 Jambi	30	30	0	0	0	30
+26	zeelmaster (Ricky Kurniawan)	SMA Xaverius 1 Jambi	30	30	0	0	0	30
+26	Angkasa_P (Angkasa Putra Tatan)	SMA Xaverius 1 Jambi	30	30	0	0	0	30
+26	andikh (Andi)	SMA Sutomo 2	30	30	0	0	0	30
+26	williamchanrico (William Chanrico)	SMAK Yos Sudarso Batam	30	30	0	0	0	30
+32	Ivan (Radivan Luberiski)		20	20	0	20	0	0
+32	Cs_ch (Cs_ch)	 	20	20	0	20	0	0
+32	nathanchrs (Jonathan Christopher)	(づ￣ ³￣)づ JOIN OR DIE	20	20	0	20	0	0
+32	raditya1710 (Alfonsus Raditya Arsadjaja)	Institut Teknologi Bandung	20	20	0	20	0	0
+36	osbin (osbin patija)	binus	14.285714285714	14.285714285714	14.285714285714	0	0	0
+37	afrizzzzal (Muhammad Ferry Afrizal)		7.1428571428571	7.1428571428571	7.1428571428571	0	0	0
+38	DeimonDB (Teddy Budiono Hermawan)	SMA Sutomo 1 Medan, Binus University	0	0	0	0	0	0
+38	MaNdes95 (Amanda Pratama Putra)	SMAN 1 Sumbawa Besar	0	0	0	0	0	0
+38	Shadz07 (Febry Antonius)	Universitas Indonesia	0	0	0	0	0	0
+38	golfin (golfin ekatria)	SMA Sutomo 1 Medan	0	0	0	0	0	0
+38	dragunovic (Hendi Lie)		0	0	0	0	0	0
+38	rizal_996 (Afrizal Fikri)	Institut Teknologi Bandung	0	0	0	0	0	0
+38	smak1_14 (Vicko Novianto)	ITB	0	0	0	0	0	0
+38	Winasforcepta (Dewangga)		0	0	0	0	0	0
+38	fahmi_amir15 (Muhammad Fahmi Amir)		0	0	0	0	0	0
+38	Alvinpiter (Sheldon Cooper)	 	0	0	0	0	0	0
+38	dayatbflash (Nur Hidayat)	SMA Pribadi Bandung	0	0	0	0	0	0
+38	Black95Viper (Anthony Prasetyo)	Universitas Bina Nusantara	0	0	0	0	0	0
+38	muhsatrio (Muhammad Satrio Wicaksono)	SMA Negeri 5 Bandung	0	0	0	0	0	0

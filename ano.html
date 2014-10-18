@@ -1,0 +1,90 @@
+<html>
+<head>
+	<title></title>
+	<script src="external/jquery-1.10.2.js"></script>
+	<script src="external/jquery-ui.js"></script>
+</head>
+<body>
+	<div id="game"></div>
+	<button id="obstacle" onclick=obstacle()>Insert obstacle</button>
+
+	<script type="text/javascript">
+		var toWrite = "";
+		toWrite += "<table border='1' style='width:400; height:400;'>";
+		for (var i = 0; i < 5; ++i)
+		{
+			toWrite += "<tr>";
+			for (var j = 0; j < 5; ++j)
+			{
+				toWrite += "<td id='"+i+j+"' onclick=klik("+i+","+j+") ondblclick=klik2("+i+","+j+")>";
+				toWrite += "";
+				toWrite += "</td>";
+			}
+			toWrite += "</tr>";
+		}
+		$("#game").html(toWrite);
+
+		var black = new Array();
+		for (var i = 0; i < 5; ++i)
+		{
+			black[i] = new Array();
+			for (var j = 0; j < 5; ++j) black[i][j] = 0;
+		}
+		var turn = 2;
+		
+		function klik(x,y)
+		{
+			$("#obstacle").hide();
+			if (black[x][y] > 0) return;
+			black[x][y] = turn;
+			if (turn % 2 == 0)
+				$("#" + x + y).attr("bgcolor","blue");
+			else 
+				$("#" + x + y).attr("bgcolor","red");
+			++turn;
+		}
+
+		function klik2(x,y)
+		{
+			if (x == 4 || y == 4) 
+			{
+				return;
+			}
+			if ((black[x][y] != turn-1) || black[x+1][y] > 0|| black[x][y+1]>0 || black[x+1][y+1]>0) 
+			{
+				return;
+			}
+			--turn;
+			for (var i = x; i <= x+1; ++i)
+			{
+				for (var j = y; j <= y+1; ++j)
+				{
+					black[i][j] = turn;
+					if (turn % 2 == 0)
+						$("#" + i + j).attr("bgcolor","blue");
+					else 
+						$("#" + i + j).attr("bgcolor","red");
+				}
+			}
+			++turn;
+		}
+
+		function obstacle()
+		{
+			$("#obstacle").hide();
+			for (var i = 0; i < 5; ++i)
+			{
+				for (var j = 0; j < 5; ++j)
+				{
+					var x = Math.random();
+					if (x < 0.2)
+					{
+						black[i][j] = 1;
+						$("#" + i + j).attr("bgcolor","gray");
+					}
+				}
+			}
+		}
+	</script>
+</body>
+</html>

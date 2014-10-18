@@ -1,0 +1,1016 @@
+1	Michael
+(emwe)	4
+7:49	3
+3:13	3
+1:14	6
+4:44	1
+1:50	2
+1:31
+2	miris gan
+(miris_gan)	4
+8:52	5
+3:21	2
+0:35	0
+0:00	1
+2:25	5
+2:29
+3	T.T
+(TryhardDoto)	4
+11:39	10
+5:46	1
+0:39	0
+0:00	3
+2:21	7
+2:51
+4	Tjandra Satria Gunawan
+(tjandra)	3
+4:30	0
+0:00	1
+1:30	0
+0:00	2
+1:02	1
+1:58
+5	Wynne Wijaya
+(wynnewijaya)	3
+9:36	0
+0:00	2
+3:20	4
+2:40	1
+2:14	5
+4:01
+6	Kevin Luvian
+(senaidert)	3
+10:10	0
+0:00	2
+1:04	10
+5:35	0
+0:00	4
+3:30
+7	PlayFap
+(PlayFap)	2
+1:09	3
+2:12	1
+0:25	0
+0:00	0
+0:00	1
+0:44
+8	Jonathan Christopher
+(nathanchrs)	2
+3:38	0
+0:00	3
+2:33	0
+0:00	1
+2:42	2
+1:04
+9	anda
+(Rebirth)	2
+3:59	0
+0:00	2
+1:25	0
+0:00	1
+2:34	1
+2:58
+10	Wira Abdillah
+(wirabdillah)	2
+4:15	0
+0:00	2
+1:20	0
+0:00	0
+0:00	5
+2:54
+11	telatlogin
+(hikshiks)	2
+4:19	0
+0:00	3
+1:15	0
+0:00	0
+0:00	5
+3:04
+12	Sandy Karunia
+(sandy)	2
+4:26	0
+0:00	3
+2:08	0
+0:00	4
+3:43	3
+2:18
+13	Teddy Budiono Hermawan
+(DeimonDB)	2
+4:27	0
+0:00	1
+2:37	0
+0:00	0
+0:00	1
+1:49
+14	Dian Bakti
+(dbakti7)	2
+7:35	0
+0:00	4
+3:27	0
+0:00	0
+0:00	9
+4:08
+15	chalvin
+(chalvin96)	2
+13:02	0
+0:00	1
+1:30	0
+0:00	0
+0:00	27
+11:31
+16	James R
+(ongisnadebiru)	1
+0:57	4
+3:01	1
+0:57	0
+0:00	0
+0:00	0
+0:00
+17	Josua Aditya Mustiko
+(AdityaMustiko)	1
+1:12	0
+0:00	2
+1:12	0
+0:00	0
+0:00	2
+2:34
+18	Ali Jaya Meilio
+(SM037)	1
+1:59	0
+0:00	1
+1:59	2
+3:16	0
+0:00	4
+3:48
+19	LoL
+(Shiro_Senasaki)	1
+2:43	0
+0:00	1
+2:43	0
+0:00	3
+2:39	0
+0:00
+20	Nicholas Thie
+(leecopper15)	1
+2:56	0
+0:00	5
+2:56	0
+0:00	0
+0:00	6
+4:38
+21	youknowho21
+(joker)	1
+3:03	0
+0:00	5
+3:03	0
+0:00	0
+0:00	1
+0:48
+22	Ervin
+(phonix45)	1
+3:17	0
+0:00	0
+0:00	0
+0:00	0
+0:00	5
+3:17
+23	Luqman Arifin
+(kadalbonek)	1
+3:19	0
+0:00	3
+3:19	0
+0:00	0
+0:00	0
+0:00
+24	Gentur Waskito Triwinasis
+(FrauKlein)	1
+3:21	0
+0:00	0
+0:00	0
+0:00	0
+0:00	3
+3:21
+25	Andrew Wijaya
+(AndrewDudu)	1
+3:30	0
+0:00	4
+3:30	0
+0:00	0
+0:00	0
+0:00
+26	Jauhar Arifin
+(jauhararifin)	1
+4:48	0
+0:00	7
+4:48	0
+0:00	0
+0:00	0
+0:00
+27	Jansen
+(jan_sen64)	1
+5:27	0
+0:00	10
+5:27	0
+0:00	0
+0:00	1
+0:27
+28	Rohmat Setiawan
+(rohmatmamat)	0
+0:00	0
+0:00	1
+1:50	0
+0:00	0
+0:00	1
+1:31
+29	Muhammad Handoyono
+(hand)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+30	zamil majdy
+(kadalijo)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+31	Haryo Wijaya
+(lightanddarkness)	0
+0:00	0
+0:00	4
+3:54	0
+0:00	0
+0:00	0
+0:00
+32	Prabowo
+(Prabowo_TOKI)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+33	Jacky Wijaya
+(imamur)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+34	M Mulki Abdul Azis
+(mulki554)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+35	wisnu
+(wisnufireball)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+36	ngantung erland
+(erlandJN777)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+37	Nur Hidayat
+(dayatbflash)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+38	Firman Hadi Prayoga
+(peinneon)	0
+0:00	0
+0:00	0
+0:00	1
+1:07	0
+0:00	0
+0:00
+39	Adzka
+(Adzka)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	2
+2:49	1
+2:02
+40	Andreas
+(Andreas5)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	1
+0:38
+41	Tutla Ayatullah
+(tutla)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+42	azhar abdurrasyid
+(azhar12e3)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	1
+1:11
+43	Alva Thomson
+(Alva9696)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+44	Ricky Kurniawan
+(zeelmaster)	0
+0:00	0
+0:00	2
+2:38	0
+0:00	0
+0:00	0
+0:00
+45	Alfonsus Raditya Arsadjaja
+(raditya1710)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+46	Steven Kusuman
+(ipman)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+47	Iffah Sulistyawati Hartana
+(IffahSulistya)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	1
+1:48	0
+0:00
+48	Sergio Vieri
+(sergiovieri)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+49	Hendri
+(cuxxie)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+50	Agus Sentosa Hermawan
+(aguss787)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+51	Radivan Luberiski
+(Ivan)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+52	Alvin Senjaya
+(alvin_ss)	0
+0:00	0
+0:00	0
+0:00	2
+2:44	0
+0:00	0
+0:00
+53	Efraim Sutopo
+(serius77)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+54	Endrawan Andika Wicaksana
+(Endra130898)	0
+0:00	0
+0:00	2
+1:49	0
+0:00	0
+0:00	0
+0:00
+55	reva yoga pradana
+(revoreva)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+56	Muhammad Shufi
+(enZo)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+57	fitrah_rama
+(Fitrah_Rama)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+58	Christzen Leonardy
+(chrizt99)	0
+0:00	0
+0:00	1
+2:56	2
+3:16	0
+0:00	0
+0:00
+59	Ryan Nathan Soetandyo
+(Ryan_27)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+60	Norman Bintang
+(NormanB)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+61	golfin ekatria
+(golfin)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+62	Yosua sibuea
+(yosuasibuea)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+63	Dicky Geraldi
+(Aquila_Dicky_Nalia)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+64	Evan Putra Limanto
+(desperado123)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+65	Fadhil Imam Kurnia
+(Fadhil_imam)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+66	Willy Wijaya
+(willy9913)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+67	Christiandi 
+(Christiandi)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+68	Muhammad Faiz Zulfikar
+(MFZ)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+69	Ricky Chandra
+(rAidEr)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+70	Turfa Auliarachman
+(kingfalcon)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+71	Charlie
+(charzone95)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+72	vincent fango
+(vincentfango)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+73	Muhammad Satrio Wicaksono
+(muhsatrio)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+74	Nur intan alatas
+(Nurintaaan)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	4
+3:34
+75	Nelvson Shine
+(Sherringford)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	2
+0:56
+76	Pandito Hudiarso
+(Dito27)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+77	aku
+(mamat)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+78	Sitta Endah Pricilia Simanjuntak
+(Sitta)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+79	Cifran Hiu
+(Cifran)	0
+0:00	0
+0:00	1
+1:50	0
+0:00	0
+0:00	0
+0:00
+80	Calvin Windoro
+(windoro)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+81	Sungindra Setiawan
+(Sung)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+82	William Chanrico
+(williamchanrico)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+83	agus willyawan
+(agus_willyawan)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+84	Bernard
+(Delero)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+85	Bryan S
+(GoldenLeon)	0
+0:00	1
+0:48	1
+0:45	1
+0:48	1
+0:47	1
+0:47
+86	Hierony Manurung
+(manurung)	0
+0:00	0
+0:00	6
+3:58	0
+0:00	0
+0:00	0
+0:00
+87	Afrizal Fikri
+(rizal_996)	0
+0:00	0
+0:00	1
+0:43	0
+0:00	0
+0:00	0
+0:00
+88	Conrad Winardo Siahaan
+(Conrad)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+89	Christian Felix Napitupulu
+(cfn901)	0
+0:00	0
+0:00	6
+4:14	2
+1:41	0
+0:00	0
+0:00
+90	Yusuf Manshur
+(yusufmanshur)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+91	Wiwit Rifai
+(gowatgowit)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+92	Rizky Agung Dwi Putranto
+(rizky_agung)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+93	Kadek Gemilang Satiyuda
+(sanyou)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	1
+0:48
+94	primo
+(ITBSPC3_067)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+95	Ahmad Fahmi Pratama
+(Fahmi123456)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+96	Edwin Wijaya
+(edwinwijaya94)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+97	Rifqi Rifaldi Utomo
+(rifqiru)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+98	Aditya Putra Santosa
+(adityaps)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+99	Novi Adri
+(Adri)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+100	Arnold Ardianto
+(fonmagnus)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+101	Saputro Andi P
+(Sptandi)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+102	Stefano Chiesa
+(zeulb)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+103	Piplup
+(kenrick95)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+104	Dewangga
+(Winasforcepta)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+105	Fariz Azmi Pratama
+(farizazmi)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+106	Dimas Fatana
+(dimasfatana)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+107	Muhamad Rizqi Farhan
+(Problem)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+108	Vicko Novianto
+(smak1_14)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+109	Tommy Cuang
+(Tommy_Cuang)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+110	anak biasa
+(Super_TamTam)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+111	Reinhart Abdiel Hermanus
+(reinhard1993)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+112	Reinhard Linardi
+(reinhardlinardi)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+113	Willy Wijaya
+(WillyW)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+114	Hobert
+(Hobert)	0
+0:00	0
+0:00	1
+1:43	0
+0:00	1
+3:02	0
+0:00
+115	Wibisana Bramawidya
+(wibisana)	0
+0:00	0
+0:00	6
+3:46	0
+0:00	0
+0:00	0
+0:00
+116	saeful ramadhan
+(ipul23)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+117	Pamella Young
+(ella_mikki)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+118	Vederis Leunardus
+(vederis)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+119	Albertus Angga R
+(iehan)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	7
+3:12
+120	Adrian Hartanto Osman
+(hatell)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	1
+2:12
+121	Arianto Wibowo
+(Leonspirit)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+122	WML
+(aaasssddd)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+123	Sierra Vista
+(SierraVista)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+124	jonathan afendy
+(jonathanafendy)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+125	Monyet
+(monyet)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+126	TekelSleding_yk
+(Dzarbela)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
+127	Daneswara Jauhari
+(Daneswara)	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00	0
+0:00
