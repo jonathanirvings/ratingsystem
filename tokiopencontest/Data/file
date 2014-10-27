@@ -1,0 +1,30 @@
+
+
+zgenerator-ioi < ./Data/april2011.ioi
+zgenerator-ioi < ./Data/april2012.ioi
+zgenerator-ioi < ./Data/april2014.ioi
+zgenerator-ioi < ./Data/desember2010.ioi
+zgenerator-ioi < ./Data/desember2011.ioi
+zgenerator-ioi < ./Data/desember2012.ioi
+zgenerator-ioi < ./Data/februari2011.ioi
+zgenerator-ioi < ./Data/februari2012.ioi
+zgenerator-ioi < ./Data/januari2011.ioi
+zgenerator-ioi < ./Data/januari2012.ioi
+zgenerator-ioi < ./Data/juni2013.ioi
+zgenerator-ioi < ./Data/maret2011.ioi
+zgenerator-ioi < ./Data/maret2012.ioi
+zgenerator-ioi < ./Data/maret2013.ioi
+zgenerator-ioi < ./Data/mei2012.ioi
+
+zgenerator-acm < ./Data/februari2014.acm
+zgenerator-acm < ./Data/januari2013.acm
+zgenerator-acm < ./Data/juli2012.acm
+zgenerator-acm < ./Data/juli2014.acm
+zgenerator-acm < ./Data/juni2012.acm
+zgenerator-acm < ./Data/juni2014.acm
+zgenerator-acm < ./Data/mei2014.acm
+zgenerator-acm < ./Data/november2012.acm
+zgenerator-acm < ./Data/oktober2012.acm
+zgenerator-acm < ./Data/september2012.acm
+zgenerator-acm < ./Data/september2014.acm
+zgenerator-acm < ./Data/agustus2014.acm
