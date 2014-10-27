@@ -8,8 +8,7 @@
 		include "dbhandler.php";
 		include "dboperation.php";
 		include "processrating.php";
-		include "external/inverse_ncdf.php";
-		include "external/erf.php";
+		include "external/formula.php";
 	?>
 </head>
 <body>

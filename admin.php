@@ -7,6 +7,7 @@
 		include "dbhandler.php";
 		include "dboperation.php";
 		include "processrating.php";
+		include "external/formula.php";
 	?>
 	<script src="external/jquery-1.10.2.js"></script>
 	<script src="external/jquery-ui.js"></script>

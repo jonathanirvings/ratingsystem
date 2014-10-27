@@ -39,6 +39,26 @@
 			$this->dbhandler->doQuery($query);
 		}
 
+		public function getVolatility($username)
+		{
+			global $DEFAULT_VOLATILITY;
+			$query = "SELECT volatility FROM rating WHERE username = \"".$username."\"";
+			$result = $this->dbhandler->getQuery($query);
+			if (count($result) > 0)
+				return $result[0]["volatility"];
+			else 
+			{
+				$this->insertName($username);
+				return $DEFAULT_VOLATILITY;
+			}
+		}
+
+		public function updateVolatility($username,$newVolatility)
+		{
+			$query = "UPDATE rating SET volatility = ".$newVolatility." WHERE username = \"".$username."\"";
+			$this->dbhandler->doQuery($query);
+		}
+
 		public function getRounds($username)
 		{
 			$query = "SELECT rounds FROM rating WHERE username = \"".$username."\"";
