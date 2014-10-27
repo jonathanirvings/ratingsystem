@@ -77,11 +77,12 @@ int main()
 	string out = name+".dbs";
 	output(out.c_str());
 	
-	int rank,score;
+	int rank;
+	double score;
 	while(scanf("%d %s",&rank,handle) != EOF)
 	{
 		while(getchar() != ')');
-		scanf("%d",&score);
-		if (score > 0) printf("INSERT INTO %s VALUES (%d,\"%s\",%d,NULL)\n",contestname,rank,handle,score);
+		scanf("%lf",&score);
+		if (score > 0) printf("INSERT INTO %s VALUES (%d,\"%s\",%.2lf,NULL);\n",contestname,rank,handle,score);
 	}
 }

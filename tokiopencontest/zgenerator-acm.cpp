@@ -72,6 +72,6 @@ int main()
 		scanf("%d:%d",&penalty1,&penalty2);
 		handle[strlen(handle)-1] = '\0';
 		penalty = penalty1*60+penalty2;
-		if (score > 0) printf("INSERT INTO %s VALUES (%d,\"%s\",%d,%d)\n",contestname,rank,handle,score,penalty);
+		if (score > 0) printf("INSERT INTO %s VALUES (%d,\"%s\",%d,%d);\n",contestname,rank,handle,score,penalty);
 	}
 }
