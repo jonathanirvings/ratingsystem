@@ -68,12 +68,38 @@ char contestname[1005];
 char data[10005];
 char handle[10005];
 
+string en_month[12] = {"january","february","march","april","may","june","july","august","september","october","november","december"};
+string id_month[12] = {"januari","februari","maret","april","mei","juni","juli","agustus","september","oktober","november","desember"};
+
+string translate(string name)
+{
+	int len = name.length();
+	string year = "";
+	year += name.back();
+	name.pop_back();
+	year += name.back();
+	name.pop_back();
+	year += name.back();
+	name.pop_back();
+	year += name.back();
+	name.pop_back();
+	reverse(year.begin(),year.end());
+	
+	
+	FOR(a,0,11)
+	{
+		if (name == id_month[a]) name = en_month[a];
+	}
+	name += year;
+	return name;
+}
+
 int main()
 {
 	scanf("%s\n",contestname);
 	assert(isalpha(contestname[0]));
 
-	string name = contestname;
+	string name = translate(contestname);
 	string out = name+".dbs";
 	output(out.c_str());
 	
@@ -83,6 +109,6 @@ int main()
 	{
 		while(getchar() != ')');
 		scanf("%lf",&score);
-		if (score > 0) printf("INSERT INTO %s VALUES (%d,\"%s\",%.2lf,NULL);\n",contestname,rank,handle,score);
+		if (score > 0) printf("INSERT INTO %s VALUES (%d,\"%s\",%.2lf,NULL);\n",name.c_str(),rank,handle,score);
 	}
 }
