@@ -1,0 +1,657 @@
+﻿Buat Irvin
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Buat Ano/175.csv
+#	new file:   Buat Ano/324.csv
+#	new file:   Buat Ano/36-1.htm
+#	new file:   Buat Ano/36-1_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/36-1_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/36-1_files/2c-r-fixed.css
+#	new file:   Buat Ano/36-1_files/2column.css
+#	new file:   Buat Ano/36-1_files/activity.htm
+#	new file:   Buat Ano/36-1_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/36-1_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/36-1_files/activity_data/safe_image.png
+#	new file:   Buat Ano/36-1_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/36-1_files/all.js
+#	new file:   Buat Ano/36-1_files/contest.css
+#	new file:   Buat Ano/36-1_files/dateformat.js
+#	new file:   Buat Ano/36-1_files/default.css
+#	new file:   Buat Ano/36-1_files/facebook-32.png
+#	new file:   Buat Ano/36-1_files/feed-32.png
+#	new file:   Buat Ano/36-1_files/ga.js
+#	new file:   Buat Ano/36-1_files/jquery.css
+#	new file:   Buat Ano/36-1_files/jquery.js
+#	new file:   Buat Ano/36-1_files/jquery_002.js
+#	new file:   Buat Ano/36-1_files/jquery_003.js
+#	new file:   Buat Ano/36-1_files/jquery_004.js
+#	new file:   Buat Ano/36-1_files/jquery_005.js
+#	new file:   Buat Ano/36-1_files/mainlogo.png
+#	new file:   Buat Ano/36-1_files/noprofile60.jpg
+#	new file:   Buat Ano/36-1_files/openosn.png
+#	new file:   Buat Ano/36-1_files/pager.css
+#	new file:   Buat Ano/36-1_files/print.css
+#	new file:   Buat Ano/36-1_files/screen.css
+#	new file:   Buat Ano/36-1_files/style.css
+#	new file:   Buat Ano/36-1_files/twitter-32.png
+#	new file:   Buat Ano/36-2.htm
+#	new file:   Buat Ano/36-2_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/36-2_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/36-2_files/2c-r-fixed.css
+#	new file:   Buat Ano/36-2_files/2column.css
+#	new file:   Buat Ano/36-2_files/activity.htm
+#	new file:   Buat Ano/36-2_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/36-2_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/36-2_files/activity_data/safe_image.png
+#	new file:   Buat Ano/36-2_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/36-2_files/all.js
+#	new file:   Buat Ano/36-2_files/contest.css
+#	new file:   Buat Ano/36-2_files/dateformat.js
+#	new file:   Buat Ano/36-2_files/default.css
+#	new file:   Buat Ano/36-2_files/facebook-32.png
+#	new file:   Buat Ano/36-2_files/feed-32.png
+#	new file:   Buat Ano/36-2_files/ga.js
+#	new file:   Buat Ano/36-2_files/jquery.css
+#	new file:   Buat Ano/36-2_files/jquery.js
+#	new file:   Buat Ano/36-2_files/jquery_002.js
+#	new file:   Buat Ano/36-2_files/jquery_003.js
+#	new file:   Buat Ano/36-2_files/jquery_004.js
+#	new file:   Buat Ano/36-2_files/jquery_005.js
+#	new file:   Buat Ano/36-2_files/mainlogo.png
+#	new file:   Buat Ano/36-2_files/noprofile60.jpg
+#	new file:   Buat Ano/36-2_files/openosn.png
+#	new file:   Buat Ano/36-2_files/pager.css
+#	new file:   Buat Ano/36-2_files/print.css
+#	new file:   Buat Ano/36-2_files/screen.css
+#	new file:   Buat Ano/36-2_files/style.css
+#	new file:   Buat Ano/36-2_files/twitter-32.png
+#	new file:   Buat Ano/36-3.htm
+#	new file:   Buat Ano/36-3_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/36-3_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/36-3_files/2c-r-fixed.css
+#	new file:   Buat Ano/36-3_files/2column.css
+#	new file:   Buat Ano/36-3_files/activity.htm
+#	new file:   Buat Ano/36-3_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/36-3_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/36-3_files/activity_data/safe_image.png
+#	new file:   Buat Ano/36-3_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/36-3_files/all.js
+#	new file:   Buat Ano/36-3_files/contest.css
+#	new file:   Buat Ano/36-3_files/dateformat.js
+#	new file:   Buat Ano/36-3_files/default.css
+#	new file:   Buat Ano/36-3_files/facebook-32.png
+#	new file:   Buat Ano/36-3_files/feed-32.png
+#	new file:   Buat Ano/36-3_files/ga.js
+#	new file:   Buat Ano/36-3_files/jquery.css
+#	new file:   Buat Ano/36-3_files/jquery.js
+#	new file:   Buat Ano/36-3_files/jquery_002.js
+#	new file:   Buat Ano/36-3_files/jquery_003.js
+#	new file:   Buat Ano/36-3_files/jquery_004.js
+#	new file:   Buat Ano/36-3_files/jquery_005.js
+#	new file:   Buat Ano/36-3_files/mainlogo.png
+#	new file:   Buat Ano/36-3_files/noprofile60.jpg
+#	new file:   Buat Ano/36-3_files/openosn.png
+#	new file:   Buat Ano/36-3_files/pager.css
+#	new file:   Buat Ano/36-3_files/print.css
+#	new file:   Buat Ano/36-3_files/screen.css
+#	new file:   Buat Ano/36-3_files/style.css
+#	new file:   Buat Ano/36-3_files/twitter-32.png
+#	new file:   Buat Ano/36-4.htm
+#	new file:   Buat Ano/36-4_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/36-4_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/36-4_files/2c-r-fixed.css
+#	new file:   Buat Ano/36-4_files/2column.css
+#	new file:   Buat Ano/36-4_files/activity.htm
+#	new file:   Buat Ano/36-4_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/36-4_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/36-4_files/activity_data/safe_image.png
+#	new file:   Buat Ano/36-4_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/36-4_files/all.js
+#	new file:   Buat Ano/36-4_files/contest.css
+#	new file:   Buat Ano/36-4_files/dateformat.js
+#	new file:   Buat Ano/36-4_files/default.css
+#	new file:   Buat Ano/36-4_files/facebook-32.png
+#	new file:   Buat Ano/36-4_files/feed-32.png
+#	new file:   Buat Ano/36-4_files/ga.js
+#	new file:   Buat Ano/36-4_files/jquery.css
+#	new file:   Buat Ano/36-4_files/jquery.js
+#	new file:   Buat Ano/36-4_files/jquery_002.js
+#	new file:   Buat Ano/36-4_files/jquery_003.js
+#	new file:   Buat Ano/36-4_files/jquery_004.js
+#	new file:   Buat Ano/36-4_files/jquery_005.js
+#	new file:   Buat Ano/36-4_files/mainlogo.png
+#	new file:   Buat Ano/36-4_files/noprofile60.jpg
+#	new file:   Buat Ano/36-4_files/openosn.png
+#	new file:   Buat Ano/36-4_files/pager.css
+#	new file:   Buat Ano/36-4_files/print.css
+#	new file:   Buat Ano/36-4_files/screen.css
+#	new file:   Buat Ano/36-4_files/style.css
+#	new file:   Buat Ano/36-4_files/twitter-32.png
+#	new file:   Buat Ano/36-5.htm
+#	new file:   Buat Ano/36-5_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/36-5_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/36-5_files/2c-r-fixed.css
+#	new file:   Buat Ano/36-5_files/2column.css
+#	new file:   Buat Ano/36-5_files/activity.htm
+#	new file:   Buat Ano/36-5_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/36-5_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/36-5_files/activity_data/safe_image.png
+#	new file:   Buat Ano/36-5_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/36-5_files/all.js
+#	new file:   Buat Ano/36-5_files/contest.css
+#	new file:   Buat Ano/36-5_files/dateformat.js
+#	new file:   Buat Ano/36-5_files/default.css
+#	new file:   Buat Ano/36-5_files/facebook-32.png
+#	new file:   Buat Ano/36-5_files/feed-32.png
+#	new file:   Buat Ano/36-5_files/ga.js
+#	new file:   Buat Ano/36-5_files/jquery.css
+#	new file:   Buat Ano/36-5_files/jquery.js
+#	new file:   Buat Ano/36-5_files/jquery_002.js
+#	new file:   Buat Ano/36-5_files/jquery_003.js
+#	new file:   Buat Ano/36-5_files/jquery_004.js
+#	new file:   Buat Ano/36-5_files/jquery_005.js
+#	new file:   Buat Ano/36-5_files/mainlogo.png
+#	new file:   Buat Ano/36-5_files/noprofile60.jpg
+#	new file:   Buat Ano/36-5_files/openosn.png
+#	new file:   Buat Ano/36-5_files/pager.css
+#	new file:   Buat Ano/36-5_files/print.css
+#	new file:   Buat Ano/36-5_files/screen.css
+#	new file:   Buat Ano/36-5_files/style.css
+#	new file:   Buat Ano/36-5_files/twitter-32.png
+#	new file:   Buat Ano/38-1.htm
+#	new file:   Buat Ano/38-1_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/38-1_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/38-1_files/2c-r-fixed.css
+#	new file:   Buat Ano/38-1_files/2column.css
+#	new file:   Buat Ano/38-1_files/activity.htm
+#	new file:   Buat Ano/38-1_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/38-1_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/38-1_files/activity_data/safe_image.png
+#	new file:   Buat Ano/38-1_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/38-1_files/all.js
+#	new file:   Buat Ano/38-1_files/contest.css
+#	new file:   Buat Ano/38-1_files/dateformat.js
+#	new file:   Buat Ano/38-1_files/default.css
+#	new file:   Buat Ano/38-1_files/facebook-32.png
+#	new file:   Buat Ano/38-1_files/feed-32.png
+#	new file:   Buat Ano/38-1_files/ga.js
+#	new file:   Buat Ano/38-1_files/jquery.css
+#	new file:   Buat Ano/38-1_files/jquery.js
+#	new file:   Buat Ano/38-1_files/jquery_002.js
+#	new file:   Buat Ano/38-1_files/jquery_003.js
+#	new file:   Buat Ano/38-1_files/jquery_004.js
+#	new file:   Buat Ano/38-1_files/jquery_005.js
+#	new file:   Buat Ano/38-1_files/mainlogo.png
+#	new file:   Buat Ano/38-1_files/noprofile60.jpg
+#	new file:   Buat Ano/38-1_files/openosn.png
+#	new file:   Buat Ano/38-1_files/pager.css
+#	new file:   Buat Ano/38-1_files/print.css
+#	new file:   Buat Ano/38-1_files/screen.css
+#	new file:   Buat Ano/38-1_files/style.css
+#	new file:   Buat Ano/38-1_files/twitter-32.png
+#	new file:   Buat Ano/38-2.htm
+#	new file:   Buat Ano/38-2_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/38-2_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/38-2_files/2c-r-fixed.css
+#	new file:   Buat Ano/38-2_files/2column.css
+#	new file:   Buat Ano/38-2_files/activity.htm
+#	new file:   Buat Ano/38-2_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/38-2_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/38-2_files/activity_data/safe_image.png
+#	new file:   Buat Ano/38-2_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/38-2_files/all.js
+#	new file:   Buat Ano/38-2_files/contest.css
+#	new file:   Buat Ano/38-2_files/dateformat.js
+#	new file:   Buat Ano/38-2_files/default.css
+#	new file:   Buat Ano/38-2_files/facebook-32.png
+#	new file:   Buat Ano/38-2_files/feed-32.png
+#	new file:   Buat Ano/38-2_files/ga.js
+#	new file:   Buat Ano/38-2_files/jquery.css
+#	new file:   Buat Ano/38-2_files/jquery.js
+#	new file:   Buat Ano/38-2_files/jquery_002.js
+#	new file:   Buat Ano/38-2_files/jquery_003.js
+#	new file:   Buat Ano/38-2_files/jquery_004.js
+#	new file:   Buat Ano/38-2_files/jquery_005.js
+#	new file:   Buat Ano/38-2_files/mainlogo.png
+#	new file:   Buat Ano/38-2_files/noprofile60.jpg
+#	new file:   Buat Ano/38-2_files/openosn.png
+#	new file:   Buat Ano/38-2_files/pager.css
+#	new file:   Buat Ano/38-2_files/print.css
+#	new file:   Buat Ano/38-2_files/screen.css
+#	new file:   Buat Ano/38-2_files/style.css
+#	new file:   Buat Ano/38-2_files/twitter-32.png
+#	new file:   Buat Ano/38-3.htm
+#	new file:   Buat Ano/38-3_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/38-3_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/38-3_files/2c-r-fixed.css
+#	new file:   Buat Ano/38-3_files/2column.css
+#	new file:   Buat Ano/38-3_files/activity.htm
+#	new file:   Buat Ano/38-3_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/38-3_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/38-3_files/activity_data/safe_image.png
+#	new file:   Buat Ano/38-3_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/38-3_files/all.js
+#	new file:   Buat Ano/38-3_files/contest.css
+#	new file:   Buat Ano/38-3_files/dateformat.js
+#	new file:   Buat Ano/38-3_files/default.css
+#	new file:   Buat Ano/38-3_files/facebook-32.png
+#	new file:   Buat Ano/38-3_files/feed-32.png
+#	new file:   Buat Ano/38-3_files/ga.js
+#	new file:   Buat Ano/38-3_files/jquery.css
+#	new file:   Buat Ano/38-3_files/jquery.js
+#	new file:   Buat Ano/38-3_files/jquery_002.js
+#	new file:   Buat Ano/38-3_files/jquery_003.js
+#	new file:   Buat Ano/38-3_files/jquery_004.js
+#	new file:   Buat Ano/38-3_files/jquery_005.js
+#	new file:   Buat Ano/38-3_files/mainlogo.png
+#	new file:   Buat Ano/38-3_files/noprofile60.jpg
+#	new file:   Buat Ano/38-3_files/openosn.png
+#	new file:   Buat Ano/38-3_files/pager.css
+#	new file:   Buat Ano/38-3_files/print.css
+#	new file:   Buat Ano/38-3_files/screen.css
+#	new file:   Buat Ano/38-3_files/style.css
+#	new file:   Buat Ano/38-3_files/twitter-32.png
+#	new file:   Buat Ano/38-4.htm
+#	new file:   Buat Ano/38-4_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/38-4_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/38-4_files/2c-r-fixed.css
+#	new file:   Buat Ano/38-4_files/2column.css
+#	new file:   Buat Ano/38-4_files/activity.htm
+#	new file:   Buat Ano/38-4_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/38-4_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/38-4_files/activity_data/safe_image.png
+#	new file:   Buat Ano/38-4_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/38-4_files/all.js
+#	new file:   Buat Ano/38-4_files/contest.css
+#	new file:   Buat Ano/38-4_files/dateformat.js
+#	new file:   Buat Ano/38-4_files/default.css
+#	new file:   Buat Ano/38-4_files/facebook-32.png
+#	new file:   Buat Ano/38-4_files/feed-32.png
+#	new file:   Buat Ano/38-4_files/ga.js
+#	new file:   Buat Ano/38-4_files/jquery.css
+#	new file:   Buat Ano/38-4_files/jquery.js
+#	new file:   Buat Ano/38-4_files/jquery_002.js
+#	new file:   Buat Ano/38-4_files/jquery_003.js
+#	new file:   Buat Ano/38-4_files/jquery_004.js
+#	new file:   Buat Ano/38-4_files/jquery_005.js
+#	new file:   Buat Ano/38-4_files/mainlogo.png
+#	new file:   Buat Ano/38-4_files/noprofile60.jpg
+#	new file:   Buat Ano/38-4_files/openosn.png
+#	new file:   Buat Ano/38-4_files/pager.css
+#	new file:   Buat Ano/38-4_files/print.css
+#	new file:   Buat Ano/38-4_files/screen.css
+#	new file:   Buat Ano/38-4_files/style.css
+#	new file:   Buat Ano/38-4_files/twitter-32.png
+#	new file:   Buat Ano/42-1.htm
+#	new file:   Buat Ano/42-1_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/42-1_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/42-1_files/2c-r-fixed.css
+#	new file:   Buat Ano/42-1_files/2column.css
+#	new file:   Buat Ano/42-1_files/activity.htm
+#	new file:   Buat Ano/42-1_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/42-1_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/42-1_files/activity_data/safe_image.png
+#	new file:   Buat Ano/42-1_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/42-1_files/all.js
+#	new file:   Buat Ano/42-1_files/contest.css
+#	new file:   Buat Ano/42-1_files/dateformat.js
+#	new file:   Buat Ano/42-1_files/default.css
+#	new file:   Buat Ano/42-1_files/facebook-32.png
+#	new file:   Buat Ano/42-1_files/feed-32.png
+#	new file:   Buat Ano/42-1_files/ga.js
+#	new file:   Buat Ano/42-1_files/jquery.css
+#	new file:   Buat Ano/42-1_files/jquery.js
+#	new file:   Buat Ano/42-1_files/jquery_002.js
+#	new file:   Buat Ano/42-1_files/jquery_003.js
+#	new file:   Buat Ano/42-1_files/jquery_004.js
+#	new file:   Buat Ano/42-1_files/jquery_005.js
+#	new file:   Buat Ano/42-1_files/mainlogo.png
+#	new file:   Buat Ano/42-1_files/noprofile60.jpg
+#	new file:   Buat Ano/42-1_files/openosn.png
+#	new file:   Buat Ano/42-1_files/pager.css
+#	new file:   Buat Ano/42-1_files/print.css
+#	new file:   Buat Ano/42-1_files/screen.css
+#	new file:   Buat Ano/42-1_files/style.css
+#	new file:   Buat Ano/42-1_files/twitter-32.png
+#	new file:   Buat Ano/42-2.htm
+#	new file:   Buat Ano/42-2_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/42-2_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/42-2_files/2c-r-fixed.css
+#	new file:   Buat Ano/42-2_files/2column.css
+#	new file:   Buat Ano/42-2_files/activity.htm
+#	new file:   Buat Ano/42-2_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/42-2_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/42-2_files/activity_data/safe_image.png
+#	new file:   Buat Ano/42-2_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/42-2_files/all.js
+#	new file:   Buat Ano/42-2_files/contest.css
+#	new file:   Buat Ano/42-2_files/dateformat.js
+#	new file:   Buat Ano/42-2_files/default.css
+#	new file:   Buat Ano/42-2_files/facebook-32.png
+#	new file:   Buat Ano/42-2_files/feed-32.png
+#	new file:   Buat Ano/42-2_files/ga.js
+#	new file:   Buat Ano/42-2_files/jquery.css
+#	new file:   Buat Ano/42-2_files/jquery.js
+#	new file:   Buat Ano/42-2_files/jquery_002.js
+#	new file:   Buat Ano/42-2_files/jquery_003.js
+#	new file:   Buat Ano/42-2_files/jquery_004.js
+#	new file:   Buat Ano/42-2_files/jquery_005.js
+#	new file:   Buat Ano/42-2_files/mainlogo.png
+#	new file:   Buat Ano/42-2_files/noprofile60.jpg
+#	new file:   Buat Ano/42-2_files/openosn.png
+#	new file:   Buat Ano/42-2_files/pager.css
+#	new file:   Buat Ano/42-2_files/print.css
+#	new file:   Buat Ano/42-2_files/screen.css
+#	new file:   Buat Ano/42-2_files/style.css
+#	new file:   Buat Ano/42-2_files/twitter-32.png
+#	new file:   Buat Ano/42-3.htm
+#	new file:   Buat Ano/42-3_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/42-3_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/42-3_files/2c-r-fixed.css
+#	new file:   Buat Ano/42-3_files/2column.css
+#	new file:   Buat Ano/42-3_files/activity.htm
+#	new file:   Buat Ano/42-3_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/42-3_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/42-3_files/activity_data/safe_image.png
+#	new file:   Buat Ano/42-3_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/42-3_files/all.js
+#	new file:   Buat Ano/42-3_files/contest.css
+#	new file:   Buat Ano/42-3_files/dateformat.js
+#	new file:   Buat Ano/42-3_files/default.css
+#	new file:   Buat Ano/42-3_files/facebook-32.png
+#	new file:   Buat Ano/42-3_files/feed-32.png
+#	new file:   Buat Ano/42-3_files/ga.js
+#	new file:   Buat Ano/42-3_files/jquery.css
+#	new file:   Buat Ano/42-3_files/jquery.js
+#	new file:   Buat Ano/42-3_files/jquery_002.js
+#	new file:   Buat Ano/42-3_files/jquery_003.js
+#	new file:   Buat Ano/42-3_files/jquery_004.js
+#	new file:   Buat Ano/42-3_files/jquery_005.js
+#	new file:   Buat Ano/42-3_files/mainlogo.png
+#	new file:   Buat Ano/42-3_files/noprofile60.jpg
+#	new file:   Buat Ano/42-3_files/openosn.png
+#	new file:   Buat Ano/42-3_files/pager.css
+#	new file:   Buat Ano/42-3_files/print.css
+#	new file:   Buat Ano/42-3_files/screen.css
+#	new file:   Buat Ano/42-3_files/style.css
+#	new file:   Buat Ano/42-3_files/twitter-32.png
+#	new file:   Buat Ano/42-4.htm
+#	new file:   Buat Ano/42-4_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/42-4_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/42-4_files/2c-r-fixed.css
+#	new file:   Buat Ano/42-4_files/2column.css
+#	new file:   Buat Ano/42-4_files/activity.htm
+#	new file:   Buat Ano/42-4_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/42-4_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/42-4_files/activity_data/safe_image.png
+#	new file:   Buat Ano/42-4_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/42-4_files/all.js
+#	new file:   Buat Ano/42-4_files/contest.css
+#	new file:   Buat Ano/42-4_files/dateformat.js
+#	new file:   Buat Ano/42-4_files/default.css
+#	new file:   Buat Ano/42-4_files/facebook-32.png
+#	new file:   Buat Ano/42-4_files/feed-32.png
+#	new file:   Buat Ano/42-4_files/ga.js
+#	new file:   Buat Ano/42-4_files/jquery.css
+#	new file:   Buat Ano/42-4_files/jquery.js
+#	new file:   Buat Ano/42-4_files/jquery_002.js
+#	new file:   Buat Ano/42-4_files/jquery_003.js
+#	new file:   Buat Ano/42-4_files/jquery_004.js
+#	new file:   Buat Ano/42-4_files/jquery_005.js
+#	new file:   Buat Ano/42-4_files/mainlogo.png
+#	new file:   Buat Ano/42-4_files/noprofile60.jpg
+#	new file:   Buat Ano/42-4_files/openosn.png
+#	new file:   Buat Ano/42-4_files/pager.css
+#	new file:   Buat Ano/42-4_files/print.css
+#	new file:   Buat Ano/42-4_files/screen.css
+#	new file:   Buat Ano/42-4_files/style.css
+#	new file:   Buat Ano/42-4_files/twitter-32.png
+#	new file:   Buat Ano/46-1.htm
+#	new file:   Buat Ano/46-1_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/46-1_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/46-1_files/2c-r-fixed.css
+#	new file:   Buat Ano/46-1_files/2column.css
+#	new file:   Buat Ano/46-1_files/activity.htm
+#	new file:   Buat Ano/46-1_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/46-1_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/46-1_files/activity_data/safe_image.png
+#	new file:   Buat Ano/46-1_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/46-1_files/all.js
+#	new file:   Buat Ano/46-1_files/contest.css
+#	new file:   Buat Ano/46-1_files/dateformat.js
+#	new file:   Buat Ano/46-1_files/default.css
+#	new file:   Buat Ano/46-1_files/facebook-32.png
+#	new file:   Buat Ano/46-1_files/feed-32.png
+#	new file:   Buat Ano/46-1_files/ga.js
+#	new file:   Buat Ano/46-1_files/jquery.css
+#	new file:   Buat Ano/46-1_files/jquery.js
+#	new file:   Buat Ano/46-1_files/jquery_002.js
+#	new file:   Buat Ano/46-1_files/jquery_003.js
+#	new file:   Buat Ano/46-1_files/jquery_004.js
+#	new file:   Buat Ano/46-1_files/jquery_005.js
+#	new file:   Buat Ano/46-1_files/mainlogo.png
+#	new file:   Buat Ano/46-1_files/noprofile60.jpg
+#	new file:   Buat Ano/46-1_files/openosn.png
+#	new file:   Buat Ano/46-1_files/pager.css
+#	new file:   Buat Ano/46-1_files/print.css
+#	new file:   Buat Ano/46-1_files/screen.css
+#	new file:   Buat Ano/46-1_files/style.css
+#	new file:   Buat Ano/46-1_files/twitter-32.png
+#	new file:   Buat Ano/46-2.htm
+#	new file:   Buat Ano/46-2_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/46-2_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/46-2_files/2c-r-fixed.css
+#	new file:   Buat Ano/46-2_files/2column.css
+#	new file:   Buat Ano/46-2_files/activity.htm
+#	new file:   Buat Ano/46-2_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/46-2_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/46-2_files/activity_data/safe_image.png
+#	new file:   Buat Ano/46-2_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/46-2_files/all.js
+#	new file:   Buat Ano/46-2_files/contest.css
+#	new file:   Buat Ano/46-2_files/dateformat.js
+#	new file:   Buat Ano/46-2_files/default.css
+#	new file:   Buat Ano/46-2_files/facebook-32.png
+#	new file:   Buat Ano/46-2_files/feed-32.png
+#	new file:   Buat Ano/46-2_files/ga.js
+#	new file:   Buat Ano/46-2_files/jquery.css
+#	new file:   Buat Ano/46-2_files/jquery.js
+#	new file:   Buat Ano/46-2_files/jquery_002.js
+#	new file:   Buat Ano/46-2_files/jquery_003.js
+#	new file:   Buat Ano/46-2_files/jquery_004.js
+#	new file:   Buat Ano/46-2_files/jquery_005.js
+#	new file:   Buat Ano/46-2_files/mainlogo.png
+#	new file:   Buat Ano/46-2_files/noprofile60.jpg
+#	new file:   Buat Ano/46-2_files/openosn.png
+#	new file:   Buat Ano/46-2_files/pager.css
+#	new file:   Buat Ano/46-2_files/print.css
+#	new file:   Buat Ano/46-2_files/screen.css
+#	new file:   Buat Ano/46-2_files/style.css
+#	new file:   Buat Ano/46-2_files/twitter-32.png
+#	new file:   Buat Ano/46-3.htm
+#	new file:   Buat Ano/46-3_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/46-3_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/46-3_files/2c-r-fixed.css
+#	new file:   Buat Ano/46-3_files/2column.css
+#	new file:   Buat Ano/46-3_files/activity.htm
+#	new file:   Buat Ano/46-3_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/46-3_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/46-3_files/activity_data/safe_image.png
+#	new file:   Buat Ano/46-3_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/46-3_files/all.js
+#	new file:   Buat Ano/46-3_files/contest.css
+#	new file:   Buat Ano/46-3_files/dateformat.js
+#	new file:   Buat Ano/46-3_files/default.css
+#	new file:   Buat Ano/46-3_files/facebook-32.png
+#	new file:   Buat Ano/46-3_files/feed-32.png
+#	new file:   Buat Ano/46-3_files/ga.js
+#	new file:   Buat Ano/46-3_files/jquery.css
+#	new file:   Buat Ano/46-3_files/jquery.js
+#	new file:   Buat Ano/46-3_files/jquery_002.js
+#	new file:   Buat Ano/46-3_files/jquery_003.js
+#	new file:   Buat Ano/46-3_files/jquery_004.js
+#	new file:   Buat Ano/46-3_files/jquery_005.js
+#	new file:   Buat Ano/46-3_files/mainlogo.png
+#	new file:   Buat Ano/46-3_files/noprofile60.jpg
+#	new file:   Buat Ano/46-3_files/openosn.png
+#	new file:   Buat Ano/46-3_files/pager.css
+#	new file:   Buat Ano/46-3_files/print.css
+#	new file:   Buat Ano/46-3_files/screen.css
+#	new file:   Buat Ano/46-3_files/style.css
+#	new file:   Buat Ano/46-3_files/twitter-32.png
+#	new file:   Buat Ano/46-4.htm
+#	new file:   Buat Ano/46-4_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/46-4_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/46-4_files/2c-r-fixed.css
+#	new file:   Buat Ano/46-4_files/2column.css
+#	new file:   Buat Ano/46-4_files/activity.htm
+#	new file:   Buat Ano/46-4_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/46-4_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/46-4_files/activity_data/safe_image.png
+#	new file:   Buat Ano/46-4_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/46-4_files/all.js
+#	new file:   Buat Ano/46-4_files/contest.css
+#	new file:   Buat Ano/46-4_files/dateformat.js
+#	new file:   Buat Ano/46-4_files/default.css
+#	new file:   Buat Ano/46-4_files/facebook-32.png
+#	new file:   Buat Ano/46-4_files/feed-32.png
+#	new file:   Buat Ano/46-4_files/ga.js
+#	new file:   Buat Ano/46-4_files/jquery.css
+#	new file:   Buat Ano/46-4_files/jquery.js
+#	new file:   Buat Ano/46-4_files/jquery_002.js
+#	new file:   Buat Ano/46-4_files/jquery_003.js
+#	new file:   Buat Ano/46-4_files/jquery_004.js
+#	new file:   Buat Ano/46-4_files/jquery_005.js
+#	new file:   Buat Ano/46-4_files/mainlogo.png
+#	new file:   Buat Ano/46-4_files/noprofile60.jpg
+#	new file:   Buat Ano/46-4_files/openosn.png
+#	new file:   Buat Ano/46-4_files/pager.css
+#	new file:   Buat Ano/46-4_files/print.css
+#	new file:   Buat Ano/46-4_files/screen.css
+#	new file:   Buat Ano/46-4_files/style.css
+#	new file:   Buat Ano/46-4_files/twitter-32.png
+#	new file:   Buat Ano/46-5.htm
+#	new file:   Buat Ano/46-5_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/46-5_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/46-5_files/2c-r-fixed.css
+#	new file:   Buat Ano/46-5_files/2column.css
+#	new file:   Buat Ano/46-5_files/activity.htm
+#	new file:   Buat Ano/46-5_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/46-5_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/46-5_files/activity_data/safe_image.png
+#	new file:   Buat Ano/46-5_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/46-5_files/all.js
+#	new file:   Buat Ano/46-5_files/contest.css
+#	new file:   Buat Ano/46-5_files/dateformat.js
+#	new file:   Buat Ano/46-5_files/default.css
+#	new file:   Buat Ano/46-5_files/facebook-32.png
+#	new file:   Buat Ano/46-5_files/feed-32.png
+#	new file:   Buat Ano/46-5_files/ga.js
+#	new file:   Buat Ano/46-5_files/jquery.css
+#	new file:   Buat Ano/46-5_files/jquery.js
+#	new file:   Buat Ano/46-5_files/jquery_002.js
+#	new file:   Buat Ano/46-5_files/jquery_003.js
+#	new file:   Buat Ano/46-5_files/jquery_004.js
+#	new file:   Buat Ano/46-5_files/jquery_005.js
+#	new file:   Buat Ano/46-5_files/mainlogo.png
+#	new file:   Buat Ano/46-5_files/noprofile60.jpg
+#	new file:   Buat Ano/46-5_files/openosn.png
+#	new file:   Buat Ano/46-5_files/pager.css
+#	new file:   Buat Ano/46-5_files/print.css
+#	new file:   Buat Ano/46-5_files/screen.css
+#	new file:   Buat Ano/46-5_files/style.css
+#	new file:   Buat Ano/46-5_files/twitter-32.png
+#	new file:   Buat Ano/46-6.htm
+#	new file:   Buat Ano/46-6_files/2_ZudbRXWRs.htm
+#	new file:   Buat Ano/46-6_files/2_ZudbRXWRs_002.htm
+#	new file:   Buat Ano/46-6_files/2c-r-fixed.css
+#	new file:   Buat Ano/46-6_files/2column.css
+#	new file:   Buat Ano/46-6_files/activity.htm
+#	new file:   Buat Ano/46-6_files/activity_data/nG9uIohVT4f.js
+#	new file:   Buat Ano/46-6_files/activity_data/safe_image.jpg
+#	new file:   Buat Ano/46-6_files/activity_data/safe_image.png
+#	new file:   Buat Ano/46-6_files/activity_data/safe_image_002.png
+#	new file:   Buat Ano/46-6_files/all.js
+#	new file:   Buat Ano/46-6_files/contest.css
+#	new file:   Buat Ano/46-6_files/dateformat.js
+#	new file:   Buat Ano/46-6_files/default.css
+#	new file:   Buat Ano/46-6_files/facebook-32.png
+#	new file:   Buat Ano/46-6_files/feed-32.png
+#	new file:   Buat Ano/46-6_files/ga.js
+#	new file:   Buat Ano/46-6_files/jquery.css
+#	new file:   Buat Ano/46-6_files/jquery.js
+#	new file:   Buat Ano/46-6_files/jquery_002.js
+#	new file:   Buat Ano/46-6_files/jquery_003.js
+#	new file:   Buat Ano/46-6_files/jquery_004.js
+#	new file:   Buat Ano/46-6_files/jquery_005.js
+#	new file:   Buat Ano/46-6_files/mainlogo.png
+#	new file:   Buat Ano/46-6_files/noprofile60.jpg
+#	new file:   Buat Ano/46-6_files/openosn.png
+#	new file:   Buat Ano/46-6_files/pager.css
+#	new file:   Buat Ano/46-6_files/print.css
+#	new file:   Buat Ano/46-6_files/screen.css
+#	new file:   Buat Ano/46-6_files/style.css
+#	new file:   Buat Ano/46-6_files/twitter-32.png
+#	modified:   tokiopencontest/Data/april2014.ioi
+#	modified:   tokiopencontest/Data/desember2010.ioi
+#	modified:   tokiopencontest/Data/desember2011.ioi
+#	modified:   tokiopencontest/Data/februari2011.ioi
+#	modified:   tokiopencontest/Data/januari2011.ioi
+#	modified:   tokiopencontest/Data/maret2011.ioi
+#	modified:   tokiopencontest/Database/all.db
+#	modified:   tokiopencontest/Database/april2014.dbs
+#	new file:   tokiopencontest/Database/august2014.dbs
+#	new file:   tokiopencontest/Database/december2010.dbs
+#	new file:   tokiopencontest/Database/december2011.dbs
+#	new file:   tokiopencontest/Database/december2012.dbs
+#	new file:   tokiopencontest/Database/february2011.dbs
+#	new file:   tokiopencontest/Database/february2012.dbs
+#	new file:   tokiopencontest/Database/february2014.dbs
+#	new file:   tokiopencontest/Database/january2011.dbs
+#	new file:   tokiopencontest/Database/january2012.dbs
+#	new file:   tokiopencontest/Database/january2013.dbs
+#	new file:   tokiopencontest/Database/july2012.dbs
+#	new file:   tokiopencontest/Database/july2014.dbs
+#	new file:   tokiopencontest/Database/june2012.dbs
+#	new file:   tokiopencontest/Database/june2013.dbs
+#	new file:   tokiopencontest/Database/june2014.dbs
+#	new file:   tokiopencontest/Database/march2011.dbs
+#	new file:   tokiopencontest/Database/march2012.dbs
+#	new file:   tokiopencontest/Database/march2013.dbs
+#	new file:   tokiopencontest/Database/may2012.dbs
+#	new file:   tokiopencontest/Database/may2014.dbs
+#	new file:   tokiopencontest/Database/october2012.dbs
+#	modified:   tokiopencontest/zgenerator-acm.cpp
+#	modified:   tokiopencontest/zgenerator-acm.exe
+#	modified:   tokiopencontest/zgenerator-ioi.cpp
+#	modified:   tokiopencontest/zgenerator-ioi.exe
+#
+# Changes not staged for commit:
+#	deleted:    tokiopencontest/Database/agustus2014.dbs
+#	deleted:    tokiopencontest/Database/desember2010.dbs
+#	deleted:    tokiopencontest/Database/desember2011.dbs
+#	deleted:    tokiopencontest/Database/desember2012.dbs
+#	deleted:    tokiopencontest/Database/februari2011.dbs
+#	deleted:    tokiopencontest/Database/februari2012.dbs
+#	deleted:    tokiopencontest/Database/februari2014.dbs
+#	deleted:    tokiopencontest/Database/januari2011.dbs
+#	deleted:    tokiopencontest/Database/januari2012.dbs
+#	deleted:    tokiopencontest/Database/januari2013.dbs
+#	deleted:    tokiopencontest/Database/juli2012.dbs
+#	deleted:    tokiopencontest/Database/juli2014.dbs
+#	deleted:    tokiopencontest/Database/juni2012.dbs
+#	deleted:    tokiopencontest/Database/juni2013.dbs
+#	deleted:    tokiopencontest/Database/juni2014.dbs
+#	deleted:    tokiopencontest/Database/maret2011.dbs
+#	deleted:    tokiopencontest/Database/maret2012.dbs
+#	deleted:    tokiopencontest/Database/maret2013.dbs
+#	deleted:    tokiopencontest/Database/mei2012.dbs
+#	deleted:    tokiopencontest/Database/mei2014.dbs
+#	deleted:    tokiopencontest/Database/oktober2012.dbs
+#
+
